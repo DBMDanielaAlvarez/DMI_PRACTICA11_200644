@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaPeliculas.png" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaMenu.png" width="15%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaSeries.png" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaPeliculas.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaMenu.png" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA11_200644/blob/main/screenshots/CapturaSeries.png" width="30%"/>
 </p>
 
 
